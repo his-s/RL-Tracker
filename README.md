@@ -1,5 +1,8 @@
 # RL-Tracker
 ## Update
+**RL Tracker v1.0.2** is now support search in **Epic Games** only . <br/><br/>
+![image](https://user-images.githubusercontent.com/70527079/188061286-426a898a-336a-4da7-a537-9ca9932b4393.png)
+
 **RL Tracker v1.0.1** is now support **Epic Games**, **Steam** ,**XBOX** and **Playstation** .
 ![image](https://user-images.githubusercontent.com/70527079/187850324-fc7d8a12-8281-4835-bd18-962ddb923f47.png)
 
